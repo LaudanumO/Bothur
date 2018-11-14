@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Bothur", "Bothur.njsproj", "{B528420B-7B52-4E1F-A918-F9A2280A6324}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "HuffmanEncoder", "..\HuffmanEncoder\HuffmanEncoder.njsproj", "{75C33147-1E45-4112-809C-7EEA8C8F695F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B528420B-7B52-4E1F-A918-F9A2280A6324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B528420B-7B52-4E1F-A918-F9A2280A6324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B528420B-7B52-4E1F-A918-F9A2280A6324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B528420B-7B52-4E1F-A918-F9A2280A6324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C33147-1E45-4112-809C-7EEA8C8F695F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C33147-1E45-4112-809C-7EEA8C8F695F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C33147-1E45-4112-809C-7EEA8C8F695F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C33147-1E45-4112-809C-7EEA8C8F695F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1050472D-6A32-49FC-91DF-47D8344E9670}
+	EndGlobalSection
+EndGlobal

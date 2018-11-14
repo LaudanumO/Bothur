@@ -1,0 +1,9 @@
+{
+  "name": "bothur",
+  "version": "0.0.0",
+  "description": "Bothur",
+  "main": "app.js",
+  "author": {
+    "name": "willo_000"
+  }
+}
